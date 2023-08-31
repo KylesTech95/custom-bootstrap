@@ -995,6 +995,12 @@ padding: 1rem 1rem;
   opacity: .8;
   cursor: pointer;
 } 
+.ky-no-decor{
+  list-style: none;
+  text-decoration: none;
+  transition: .2s ease;
+  color: inherit;
+}
 
 
 .offset-1 {
